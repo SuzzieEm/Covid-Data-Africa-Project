@@ -8,7 +8,7 @@ The project involved:
 - Cleaning and filtering a large dataset
 - Summarizing key metrics using PivotTables
 - Visualizing trends with PivotCharts (cases, deaths, vaccinations)
-- Designing a clean and interactive dashboard with slicers
+- Designing a clean and interactive dashboard with slicers and a consistent layout
 
 ## 🛠️ Tools Used
 
@@ -27,18 +27,19 @@ The project involved:
 
 ## 📁 Files Included
 
-- `COVID19_Africa_Dashboard.xlsx`: Excel file containing the full dashboard, charts, and dataset
+- `COVID19_Africa_Dashboard.xlsx`: Excel file containing the dashboard and supporting pivot tables
 
-## 📈 Key Visuals
+## 💡 How to Use This File
 
-- Line chart: New cases over time
-- Line chart: New deaths over time
-- Line chart: People fully vaccinated over time
-- Slicers for interactive filtering by country and time
+1. Open the Excel file and go to the **Dashboard** sheet.
+2. Use the **slicers** to filter by country or date range.
+3. Explore the charts for trends in new cases, deaths, and vaccination progress across African countries.
+
+> Note: This version includes only the cleaned data, pivot tables, and dashboard to ensure faster loading and easier sharing.
 
 ## 🌍 Data Source
 
-- [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/coronavirus-source-data)
+- Original dataset from: [Our World in Data – COVID-19 Source Data](https://ourworldindata.org/coronavirus-source-data)
 
 ---
 
